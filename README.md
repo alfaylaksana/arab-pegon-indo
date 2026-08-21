@@ -1,6 +1,6 @@
 # Indo Arab Pegon
 
-Keyboard Keyman untuk mengetik Arab, Pegon, dan Latin dalam satu keyboard — karya Arif Hidayat.
+Keyboard Keyman untuk mengetik Arab, Pegon, dan Latin dalam satu keyboard — karya Muhammad Arif Hidayat.
 
 ## Fitur
 - Tata letak huruf Arab standar (sesuai keyboard Arab Android pada umumnya)
