@@ -12,14 +12,14 @@ Keyboard Keyman untuk mengetik Arab, Pegon, dan Latin dalam satu keyboard — ka
 ## Dua pilihan versi
 Tersedia dua file `.kmp`, isinya sama persis (huruf, layer, fitur semua identik) — bedanya cuma **layer mana yang tampil pertama kali** saat keyboard dibuka atau pindah kolom teks:
 
-- **`indo_arab_pegon_arab_default.kmp`** — layer Arab/Pegon yang tampil duluan. Cocok untuk yang lebih sering mengetik Arab/Pegon.
-- **`indo_arab_pegon_latin_default.kmp`** — layer Latin yang tampil duluan. Cocok untuk yang lebih sering mengetik Latin (Indonesia/Inggris).
+- 📥 **[Unduh — Arab/Pegon Default](./indo_arab_pegon_arab_default.kmp)** — layer Arab/Pegon yang tampil duluan. Cocok untuk yang lebih sering mengetik Arab/Pegon.
+- 📥 **[Unduh — Latin Default](./indo_arab_pegon_latin_default.kmp)** — layer Latin yang tampil duluan. Cocok untuk yang lebih sering mengetik Latin (Indonesia/Inggris).
 
 Tombol Globe (ikon lingkaran) tetap tersedia di kedua versi untuk pindah manual kapan saja. Pilih salah satu sesuai kebutuhan pemakaian sehari-hari — **cukup pasang satu saja**, tidak perlu dua-duanya sekaligus.
 
 ## Cara instal
 1. Pastikan aplikasi **Keyman** sudah terpasang di HP (unduh dari Play Store / App Store kalau belum ada)
-2. Unduh salah satu file `.kmp` di atas sesuai pilihan Antum
+2. Klik salah satu link unduh di atas sesuai pilihan Antum
 3. Buka file yang sudah diunduh — HP akan otomatis menawarkan untuk membukanya dengan aplikasi Keyman
 4. Ikuti langkah pemasangan di Keyman, lalu aktifkan keyboard "Indo Arab Pegon" di pengaturan keyboard HP
 
